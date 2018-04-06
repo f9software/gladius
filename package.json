@@ -1,0 +1,23 @@
+{
+  "name": "@f9software/gladius",
+  "version": "1.0.0",
+  "description": "Small library of JavaScript/TypeScript utility functions.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f9software/gladius.git"
+  },
+  "keywords": [
+    "javascript",
+    "typescript"
+  ],
+  "author": "Iulian Ilea <iulian@f9software.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f9software/gladius/issues"
+  },
+  "homepage": "https://github.com/f9software/gladius#readme"
+}
