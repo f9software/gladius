@@ -12,7 +12,7 @@ export function omap<T>(items: T[], getKey: (item: T) => string): OMap<T> {
 }
 
 
-export function group<K, T>(items: T[], getKey: (item: T) => string): OMap<T[]> {
+export function group<T>(items: T[], getKey: (item: T) => string): OMap<T[]> {
     const map: OMap<T[]> = {};
 
     items.forEach(item => {
